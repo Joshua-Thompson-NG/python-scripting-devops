@@ -20,7 +20,6 @@ python-devops-scripting/
 ├── week2/
 │   └── ...
 ├── capstone/
-└── notes/            # short learnings per day
 ```
 
 ## Week 1: The scripting toolkit
